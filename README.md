@@ -1,1 +1,1 @@
-# coursera_2_html_final
+# coding-project-template
